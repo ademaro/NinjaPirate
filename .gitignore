@@ -1,0 +1,8 @@
+local_settings.py
+.idea/
+*.log
+*.pot
+*.pyc
+*.swp
+*.pid
+*~
